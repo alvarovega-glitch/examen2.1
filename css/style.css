@@ -1,0 +1,228 @@
+
+body{
+	font-family: 'Roboto', sans-serif;
+}
+h1,h2,h3,h4,h5,h6{
+	color: #000000;
+	margin-bottom: 5px;
+	margin-top: 2px;
+}
+p{
+	margin: 5px 0;
+}
+.navbar a{
+	color: #fff;
+}
+
+.block-intro{
+background-image: url("../img/unnamed.png");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+padding: 50px 0;
+color: #FFFFFF;
+}
+.img-fluid{
+	max-width: 100%;
+}
+
+.intro h2{
+	font-size: 20px;
+	font-weight: 300;
+}
+.intro h2 span{
+	font-weight: 500;
+}
+.intro h3{
+	font-size: 24px;
+	font-weight: 500;
+}
+
+.card-intro{
+	background-color: var(--color-verde);
+	color: #fff;
+	box-shadow: none;
+	border-radius: 20px;
+}
+.card-intro h5{
+	color: #fff;
+}
+.card-intro span.material-icons{
+	font-size: 14px;
+	margin-right: 5px;
+}
+.card-intro h4{
+	color: #fff;
+	font-weight: 300;
+}
+.card-intro h3{
+	color: #fff;
+	font-size: 22px;
+	margin-bottom: 40px;
+}
+.card-intro .precio{
+	background-color: var(--color-gris);
+	padding: 10px;
+	border-radius: 5px;
+}
+.card-intro img{
+	width: 150px;
+}
+
+
+.block-title{
+	font-size: 22px;
+	overflow: initial;
+	color: var(--color-verde);
+	font-weight: 500;
+}
+
+.card-popular .card-content{
+	background-color: var(--fondo-gris);
+	text-align: center;
+}
+.card-popular img{
+	width: 120px;
+}
+.card-popular h3{
+	font-size: 20px;
+	font-weight: 400;
+}
+.card-popular h4{
+	font-size: 14px;
+	font-weight: 300;
+}
+
+.card .card-footer{
+	background-color: #6C6C6C;
+	color: #000000;
+	margin-top: 500px;
+}
+
+.card1 .card-footer{
+	background-color: #6C6C6C;
+	color: #000000;
+	margin-top: 500px;
+}
+
+.card2 .card-footer{
+	background-color: #6C6C6C;
+	color: #000000;
+	margin-top: 500px;
+}
+
+.card3 .card-footer{
+	background-color: #6C6C6C;
+	color: #000000;
+	margin-top: 500px;
+}
+
+.toolbar-bottom a,
+.toolbar-bottom i{
+	color: var(--color-verde);	
+}
+
+.panel-top{
+	background-color: #FFFFFF;
+	padding: 17px;
+	color: #fff;
+	text-align: center;
+}
+
+.panel-left{
+	background-color: #FFFFFF;
+}
+.list-menu{
+	margin-top: 0;
+}
+.list-menu ul{
+	background-color: var(--fondo-menu);
+}
+.list-menu i{
+	color: var(--color-verde);
+}
+
+
+
+.list-productos .item-media img{
+	width: 80px;
+}
+.list-productos .item-title{
+	color: var(--color-negro);
+	font-size: 20px;
+	font-weight: 400;
+}
+.list-productos .item-subtitle{
+	color: var(--color-negro);
+	font-size: 13px;
+	font-weight: 300;
+}
+.list-productos .item-after{
+	color: var(--color-negro);
+	font-size: 16px;
+	font-weight: 400;
+}
+.list-productos li{
+	box-shadow: 0px 0px 10px 5px #f2f2f2;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+
+
+.info h4{
+	font-size: 16px;
+}
+
+.info-top{
+	background-color: var(--fondo-gris);
+	margin-top: 0;
+	padding-top: 20px;
+	color: var(--color-gris);
+}
+.info-top ul{
+	padding-left: 20px;
+	font-size: 12px;
+}
+.color-gris{
+	color: var(--color-gris);
+}
+.info .precio{
+	font-size: 24px;
+	font-weight: 600;
+}
+
+.card{
+background-image: url("../img/0005_coco-lobo-patio-low-res-1030x687.jpg");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+margin: 50px 0;
+color: #FDFDFD;
+}
+
+.card1{
+background-image: url("../img/29497874_1998085983739112_6207735480317813536_n.jpg");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+margin:50px 0;
+color: #FDFDFD;
+}
+
+.card2{
+background-image: url("../img/DSC_6448.jpg");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+margin: 50px 0;
+color: #FDFDFD;
+}
+
+.card3{
+background-image: url("../img/Las-Verandas-Hotel-Villas-en-Roatán-Honduras.jpg");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+margin: 50px 0;
+color: #FDFDFD;
+}
